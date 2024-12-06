@@ -1,0 +1,4 @@
+Streams ek interface provide karte hain jo reading aur writing data 
+sequentially (ek ke baad ek) ko handle karta hai. Yeh large files ya continuous data sources 
+(jaise file, network, etc.) ke sath kaam karne mein useful hote hain.
+
